@@ -2,4 +2,4 @@ server:
   port: 8070
 
 property:
-  value: 'This is from GLOBAL PROD file'
+  value: 'This is from GLOBAL SIT file'
