@@ -1,0 +1,5 @@
+server:
+  port: 8072
+
+property:
+  value: 'This is from GLOBAL PROD file'

@@ -1,0 +1,8 @@
+server:
+  port: 8093
+spring:
+  application:
+    name: serviceb
+
+property:
+  value: 'This is from SERVICEB PROD file'

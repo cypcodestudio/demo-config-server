@@ -1,0 +1,8 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: servicea
+
+property:
+  value: 'This is from SERVICEA PROD file'
