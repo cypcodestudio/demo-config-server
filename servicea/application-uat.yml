@@ -3,6 +3,3 @@ server:
 spring:
   application:
     name: servicea
-
-property:
-  value: 'This is from SERVICEA UAT file'
